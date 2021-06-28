@@ -1,4 +1,4 @@
-import requests, json, random, time, socket, platform
+import json, random, time, socket, platform
 
 timestr = time.strftime("%Y-%m-%d - %H:%M:%S UTC")
 nameid = "Zisuks"
