@@ -37,8 +37,6 @@ Ip Local  : {socket.gethostbyname(socket.gethostname())}
 
 ```
 
-[![{yamlid}](https://github.com/{nameid}/{repoid}/actions/workflows/{yamlid}.yml/badge.svg)](https://github.com/{nameid}/{repoid}/actions/workflows/{yamlid}.yml)
-
 #### Download This code Here:
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/{nameid}/{repoid}?style=for-the-badge&label=Download)](https://github.com/{nameid}/{repoid}/releases) 
@@ -46,6 +44,10 @@ Ip Local  : {socket.gethostbyname(socket.gethostname())}
 </p> 
 
 #### About Me :
+
+[![{yamlid}](https://github.com/{nameid}/{repoid}/actions/workflows/{yamlid}.yml/badge.svg)](https://github.com/{nameid}/{repoid}/actions/workflows/{yamlid}.yml)
+
+[![{yamlid}](https://github.com/{nameid}/{repoid}/actions/workflows/{yamlid}.yml/badge.svg?event=schedule)](https://github.com/{nameid}/{repoid}/actions/workflows/{yamlid}.yml)
 
 ```bash
 
