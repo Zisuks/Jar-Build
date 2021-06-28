@@ -14,7 +14,7 @@
 
 ```bash
 
-2021-06-28 - 11:13:12 UTC
+2021-06-28 - 11:15:34 UTC
 
 ```
 
@@ -26,11 +26,9 @@ Host Name : fv-az41-774
 
 platform  : Linux-5.8.0-1033-azure-x86_64-with-glibc2.31
 
-Ip Local  : 10.1.0.11
+Ip Local  : 10.1.0.17
 
 ```
-
-[![build](https://github.com/Zisuks/Jar-Build/actions/workflows/build.yml/badge.svg)](https://github.com/Zisuks/Jar-Build/actions/workflows/build.yml)
 
 #### Download This code Here:
 
@@ -39,6 +37,10 @@ Ip Local  : 10.1.0.11
 </p> 
 
 #### About Me :
+
+[![build](https://github.com/Zisuks/Jar-Build/actions/workflows/build.yml/badge.svg)](https://github.com/Zisuks/Jar-Build/actions/workflows/build.yml)
+
+[![build](https://github.com/Zisuks/Jar-Build/actions/workflows/build.yml/badge.svg?event=schedule)](https://github.com/Zisuks/Jar-Build/actions/workflows/build.yml)
 
 ```bash
 
